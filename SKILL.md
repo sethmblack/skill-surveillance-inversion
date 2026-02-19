@@ -4,7 +4,7 @@ description: A skill for turning observation back on observers through radical t
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5109
+  version: 1.0.5110
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
