@@ -3,8 +3,9 @@ name: surveillance-inversion
 description: A skill for turning observation back on observers through radical transparency and documentation of those who watch.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5109
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - surveillance-inversion
